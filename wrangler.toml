@@ -1,0 +1,8 @@
+name = "slack-wifi-command"
+main = "index.js"
+compatibility_date = "2025-05-14"
+
+[env.production]
+name = "slack-wifi-command"
+main = "index.js"
+compatibility_date = "2025-05-14"
